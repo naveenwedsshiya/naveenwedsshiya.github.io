@@ -19,7 +19,7 @@ html, body{
     padding-top: 60vh;
 }
 .heading {
-    color: #ffffff;
+    color: #F27716;
     display: block;
     font-family: 'Caveat', cursive;
     font-size: 6em;
@@ -68,8 +68,9 @@ html, body{
     margin-top: 2em;
 }
 .sub-heading2{
-    font-family: 'Caveat', cursive;
-    font-size: 2em;
+    font-family: bold
+    color: black;
+    font-size: 1.2em;
     margin-top: 2em;
 }
 .sub-heading3{
@@ -84,6 +85,7 @@ html, body{
     margin-top: 1em;
 }
 .address-heading{
+    font-weight: bold;
     text-transform: lowercase;
     font-size: 0.8em;
 }
