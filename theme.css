@@ -137,28 +137,28 @@ html, body{
 }
 .garden2{
     color: #FECC01;
-    font-size: 0.8em;
+    font-size: 1em;
     margin-top: 0.1em;
 }
 .tilak-detials{
     color: #F27716;
-    font-size: 0.8em;
+    font-size: 1em;
     margin-top: 1em;
 }
 .tilak-detials1{
     color: #F27716;
-    font-size: 0.8em;
-    margin-top: 1.4em;
+    font-size: 1em;
+    margin-top: 1em;
 }
 .tilak-detials2{
     color: #F27716;
-    font-size: 1em;
+    font-size: 1.2em;
     margin-top: 0.7em;
 }
 .address-heading{
     font-weight: bold;
     text-transform: lowercase;
-    font-size: 0.8em;
+    font-size: 1em;
 }
 .address-heading2{
     font-weight: bold;
