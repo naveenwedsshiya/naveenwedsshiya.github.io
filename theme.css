@@ -4,7 +4,7 @@
     color: #222;
 }
 html, body{
-    background-image: url('a.jpg');
+    background-image: url(./img/background.jpeg);
     margin: 0;
     height: 100vh;
     text-align: center;
