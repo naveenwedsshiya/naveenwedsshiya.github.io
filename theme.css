@@ -9,6 +9,12 @@ html, body{
     height: 100vh;
     text-align: center;
 }
+.logo{
+    position:absolute; 
+    padding: 70px 0 0 0;
+	top:0; 
+	left:100;
+}
 .header{
     background-image: url(./img/hero.jpeg);
     background-repeat: no-repeat;
@@ -119,6 +125,7 @@ html, body{
 .the-details{
     font-family: 'Caveat', cursive;
     text-decoration: underline;  
+    text-decoration-color: yellow;
     font-size: 2em;
     margin-top: 1.5em;
     color: #F27716;
@@ -191,6 +198,13 @@ html, body{
     opacity: .4;
     color: #F27716;
     margin-top: 0.7em;
+}
+.nvk0x{
+    font-family: Times, "Times New Roman", Georgia, serif;
+    color: #CBB0B0;
+    font-size: 0.8em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
 }
 @media only screen and (max-width: 600px) {
     .heading {
