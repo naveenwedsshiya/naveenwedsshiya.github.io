@@ -9,12 +9,6 @@ html, body{
     height: 100vh;
     text-align: center;
 }
-.logo{
-    position:absolute; 
-    padding: 70px 0 0 0;
-	top:0; 
-	left:100;
-}
 .header{
     background-image: url(./img/hero.jpeg);
     background-repeat: no-repeat;
